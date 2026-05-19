@@ -1,7 +1,7 @@
 # 👋 Hello, Im Kafi Fawwaz
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmFqcGVrbTQ0dWVjZmoybHh2NTJia244dGJ1cjQ3cjM3Z3FleWc2dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UtKQrk88fLvaSohhpu/giphy.gif" alt="Sai Nanami Dr Stone"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmFqcGVrbTQ0dWVjZmoybHh2NTJia244dGJ1cjQ3cjM3Z3FleWc2dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UtKQrk88fLvaSohhpu/giphy.gif" width="200%" alt="Sai Nanami Dr Stone"/>
 </p>
 
 <p align="center">
